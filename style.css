@@ -82,7 +82,7 @@ h3 {
 	text-decoration: none;
 	padding: 0;
 	align-items: center;
-	flex-basis: 45vw;
+	flex-basis: 50%;
 	}
 
 .menu a {
@@ -90,15 +90,11 @@ h3 {
 	color: #242424;
 }
 
-.objednavka {
+.menu a:hover {
 	background-color: #f195b2;
 	color: white;
 	padding: 10px 15px;
 	border-radius: 20px;
-}
-
-.objednavka:hover {
-	background-color: #d2567d;
 }
 
 /* hero */
